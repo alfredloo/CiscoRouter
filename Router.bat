@@ -1,7 +1,8 @@
 #Router
+Ter len 0
 show clock
 show version
-show running 
+show run
 show redundancy
 show license all
 show ip route
@@ -10,4 +11,7 @@ show cdp neighbor
 show inventory
 show platform
 show environment all
+show dmvpn
+show crypto isakmp sa
 show clock
+Ter len 40
