@@ -5,6 +5,9 @@ show version
 show run
 show redundancy
 show license all
+show interface status
+show interfaces status err-disabled
+show interfaces trunk
 show ip route
 show logging onboard router active uptime detail
 show cdp neighbor
